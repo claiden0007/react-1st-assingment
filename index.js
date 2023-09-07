@@ -1,4 +1,4 @@
-import "./App.css";
+import "./video.css";
 import Video from "./video";
 
 function App() {
